@@ -49,6 +49,8 @@ Users should be able to:
 ### What I learned
 
 This project was one of my first bigger projects. So I decided to challenge myself and use react and not just html!
+I the biggest things I learned were
+
 
 ### Continued development
 
